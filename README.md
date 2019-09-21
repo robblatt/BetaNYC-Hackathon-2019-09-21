@@ -1,8 +1,6 @@
 # BetaNYC-Hackathon-2019-09-21
 
-(\__/)    Still a little messy, but this code was written for the Mobility for All Abilities
-(•ㅅ•)     on 9/21/2019 as part of the 'Reliable Access to Subways' team organized by
-/ 　 づ    TransitCenter and United Equal Access NY.
+Still a little messy, but this code was written for the Mobility for All Abilities on 9/21/2019 as part of the 'Reliable Access to Subways' team organized by TransitCenter and United Equal Access NY. Created while working alongside [Jen McKaig](https://github.com/jenmckaig]).
 
 Input is a PDF file in the local directory, the first page of the PDF and the last page of the PDF. The function adjusts the first page to account for zero-based numbering. It will output a csv file back into the directory.
     
